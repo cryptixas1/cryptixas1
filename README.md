@@ -65,6 +65,26 @@
 
 ---
 
+<h2 align="left">Hi 👋! My name is cryptixas1 and I'm a Game Developer from Turkey</h2>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/7piygy.jpg"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:maurodesouz?theme=original-new&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
 
 ## 📌 Pinned Projects
 <p align="center">
