@@ -71,9 +71,6 @@
   <a href="https://github.com/cryptixas1/AGVDesktopApp">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptixas1&repo=AGVDesktopApp&theme=dracula&hide_border=true"/>
   </a>
-  <a href="https://github.com/Numtal-Game-Dev/BlackAndWhite">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Numtal-Game-Dev&repo=BlackAndWhite&theme=dracula&hide_border=true"/>
-  </a>
 </p>
 
 ---
