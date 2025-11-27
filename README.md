@@ -1,29 +1,10 @@
-<!-- PRO DARK BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptixas1/brand-assets/main/banner/pro-banner-dark.png" width="100%" />
-</p>
-
-<!-- Typing Title -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=BD93F9&center=true&vCenter=true&width=550&lines=Hi+I'm+cryptixas1;Game+Developer;Software+Builder;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- Small Bio -->
 <p align="center">
   <strong>Game Developer • Full-Stack Learner • Tech Explorer</strong><br/>
   Building systems, creating worlds, shipping code.
-</p>
-
-<!-- Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cryptixas1&label=Visitors&color=bd93f9&style=flat" />
-</p>
-
----
-
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptixas1/brand-assets/main/dividers/neon-divider.svg" width="70%">
 </p>
 
 ## 🚀 About Me
@@ -34,17 +15,10 @@
 - 💬 Ask me about **Java, PHP, AWS, Azure**
 - ⚡ Fun fact: *I’m still a high school student.*
 
----
-
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptixas1/brand-assets/main/dividers/neon-divider.svg" width="70%">
-</p>
 
 ## 🧰 Tech Stack  
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" />
@@ -79,14 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="55" />
 </p>
 
----
-
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptixas1/brand-assets/main/dividers/neon-divider.svg" width="70%">
-</p>
-
-## 📊 GitHub Stats (Dracula)
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cryptixas1&show_icons=true&theme=dracula&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptixas1&theme=dracula&hide_border=true" />
@@ -98,17 +65,13 @@
 
 ---
 
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cryptixas1/brand-assets/main/dividers/neon-divider.svg" width="70%">
-</p>
 
 ## 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/cryptixas1/AGVDesktopApp">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptixas1&repo=AGVDesktopApp&theme=dracula&hide_border=true"/>
   </a>
-  <a href="https://github.com/Numtal-Game-Dev/BlackAndWhite">
+  <a href="[https://github.com/Numtal-Game-Dev/BlackAndWhite](https://github.com/Numtal-Game-Dev/BlackAndWhite)">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Numtal-Game-Dev&repo=BlackAndWhite&theme=dracula&hide_border=true"/>
   </a>
 </p>
